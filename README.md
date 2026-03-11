@@ -1,7 +1,9 @@
 # -_calculadora_de_probabilidad_con_interfaz_grafica_java_swing_- :.
 📊 Calculadora de Probabilidad con Interfaz Gráfica (Java Swing):
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5183c8a-03b7-4542-bbb0-f3bb84d08f15" />    
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5183c8a-03b7-4542-bbb0-f3bb84d08f15" /> 
+
+<img width="2644" height="1078" alt="image" src="https://github.com/user-attachments/assets/f9bcf713-9f0a-45b5-9627-7390bc36d00a" />  
 
 Proyecto académico desarrollado en Java con interfaz gráfica (Swing) para realizar cálculos de probabilidad y combinatoria.
 
