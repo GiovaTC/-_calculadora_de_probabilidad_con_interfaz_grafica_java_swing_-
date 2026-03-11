@@ -38,4 +38,4 @@ public class ProbabilityService {
     public long combinations(int n, int r) {
         return factorial(n) / (factorial(r) * factorial(n - r));
     }
-}   
+}
